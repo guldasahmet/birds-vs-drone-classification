@@ -1,0 +1,30 @@
+# Üretilen çıktı görselleri
+outputs/
+
+# Orijinal ham Colab export dosyası
+untitled0_ipynb_adlı_not_defterinin_kopyası.py
+
+# Veri seti klasörü (manuel yerleştirilmeli)
+dataset/
+data/
+
+# Model dosyaları (büyük boyut)
+*.keras
+*.h5
+
+# ZIP dosyaları
+*.zip
+
+# Python önbelleği
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter kontrol noktaları
+.ipynb_checkpoints/
+
+# VS Code ayarları
+.vscode/
+
+# Colab notebook dosyaları
+*.ipynb
